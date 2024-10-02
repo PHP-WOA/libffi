@@ -111,7 +111,7 @@
     <ClCompile Include="..\..\..\src\prep_cif.c" />
     <ClCompile Include="..\..\..\src\raw_api.c" />
     <ClCompile Include="..\..\..\src\types.c" />
-    <ClCompile Include="..\..\..\src\x86\ffi.c" />
+    <ClCompile Include="..\..\..\src\aarch64\ffi.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
